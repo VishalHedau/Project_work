@@ -1,0 +1,16 @@
+.abc{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+}
+.xyz{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    margin-left:10px;
+}
+.vis{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+}
