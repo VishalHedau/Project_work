@@ -1,0 +1,72 @@
+.class1{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-top: 5px solid blue;
+}
+.class2{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    outline:5px solid black;
+    border-right: 5px solid blue;
+    border-bottom-right-radius:10%;
+}
+.class3{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-bottom: 5px solid blue;
+}
+.class4{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-left: 5px solid blue;
+}
+.class5{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-top: 5px solid blue;
+}
+.class6{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-top: 5px solid blue;
+    border-top-right-radius: 20px;
+}
+.class7{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-top: 5px solid blue;
+}
+.class8{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-top: 5px solid blue;
+}
+.class9{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-top: 5px solid blue;
+}
+.class10{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    outline:5px solid black;
+    border-top: 5px solid blue;
+}
